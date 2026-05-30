@@ -3,7 +3,7 @@
 **Course:** ISO/IEC 42001 Lead Auditor
 **Provider:** Center for Professional Development, International Cybersecurity and Digital Forensics Academy
 **Assignment Type:** Scenario-Based Practical Simulation
-**Total Marks:**100
+**Total Marks:** 100
 **Estimated Completion Time:** 4-6 hours
 **Submission Format:** Written report in PDF or Markdown format
 
@@ -11,6 +11,7 @@
 ---
 
 ## Instructions to Candidates
+
 
 This assignment is designed to simulate a real-world ISO/IEC 42001 Lead Auditor engagement. You will be presented with a detailed organizational scenario and a set of audit evidence. Your task is to act as the Lead Auditor, analyze the evidence, and produce the professional deliverables described in each task below.
 
