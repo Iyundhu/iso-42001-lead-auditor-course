@@ -3,7 +3,9 @@
 **Course:** ISO/IEC 42001 Lead Auditor
 **Provider:** Center for Professional Development, International Cybersecurity and Digital Forensics Academy
 **Assignment Type:** Scenario-Based Practical Simulation
+
 **Total Marks:** 100
+
 **Estimated Completion Time:** 4-6 hours
 **Submission Format:** Written report in PDF or Markdown format
 
