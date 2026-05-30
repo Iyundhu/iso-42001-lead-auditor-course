@@ -1,10 +1,8 @@
-# Research-Based Critical Analysis: AI Governance Failure Through the Lens of ISO/IEC 42001
 
-## Assignment 2: ISO/IEC 42001 Lead Auditor
 
 **Course:** ISO/IEC 42001 Lead Auditor  
 **Provider:** Center for Professional Development, International Cybersecurity and Digital Forensics Academy  
-**Student:** [Your Name]  
+**Student:** IYUNDHU KENNEDY KISAME  
 **Date:** May 31, 2026  
 **Word Count:** ~4,200 words (excluding references and appendices)
 
